@@ -1,0 +1,7 @@
+ul li{
+    list-style-type: none;
+}
+#myul{
+    display: flex;
+    flex-direction: column;
+}

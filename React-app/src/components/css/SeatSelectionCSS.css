@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.seat {
+    float: left;
+    display: block;
+    margin: 5px;
+    background: darkgray;
+    width: 50px;
+    height: 50px;
+
+}
+
+.seat-select {
+    display: none;
+}
+
+.seat-select:checked+.seat {
+    background: royalblue;
+    color: white;
+}
+.gray{
+    background-color: gray;
+    font: 25px bold ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.black{
+    background-color: black;
+    font: 25px bold ;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+.blue{
+    background-color: royalblue;
+    font: 25px bold ;
+    color: white;
+      margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.seat-booked{
+    background: black;
+     float: left;
+    display: block;
+    color:white;
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+}
+.screen{
+    background-color: lightsteelblue ;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+#submit{
+    display: block;
+    margin: auto;
+}
+.wrapper{
+    alignment: center;
+}
+#number{
+    margin-top :10px
+
+}

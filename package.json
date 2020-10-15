@@ -1,0 +1,33 @@
+{
+  "name": "a2_harsh_parmar",
+  "version": "1.0.0",
+  "description": "Assignment 2",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.9.25",
+    "nodemailer": "^6.4.10",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsp98/a2_harsh_parmar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsp98/a2_harsh_parmar/issues"
+  },
+  "homepage": "https://github.com/hsp98/a2_harsh_parmar#readme"
+}

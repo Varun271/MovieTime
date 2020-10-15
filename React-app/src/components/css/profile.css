@@ -1,0 +1,28 @@
+
+
+
+.container-fluid{
+  background-image: linear-gradient(to bottom right,white,PowderBlue); /* Standard syntax (must be last) */    
+  justify-content: center;
+  border: #c1c1c1 solid 1px;
+  border-radius: 5px;
+  align-items: center;
+}
+.register-container{
+  width : 30%;
+  height : 30%;
+  margin : 10px;
+  color: black;
+  border: dimgray solid 3px;
+  padding-left: 2em;
+  padding-right: 2em;
+
+  font-weight: bold;
+  text-align: left;
+ 
+}
+
+#register{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
