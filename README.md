@@ -1,1 +1,11 @@
+#PROJECT DESCRIPTION :- Movies4u is a web application for the people who love to watch movies in a multiplex theater. The application helps the users to book a ticket for the movie that is currently being shown in the multiplex. The driving factor behind the application is to reduce the time of ticket booking and make user life easy by providing an easy and feasible solution through our website. Starting from movie selection, multiplex selection, selecting food combos to payment options everything would take place online. Users can rate the movie other than that they can pre-book tickets for the movie that is not yet released. In a nutshell, the whole process of ticket booking would take online and users from any age group would be able to book tickets.
 
+#JUSTIFICATION FOR FRAMEWORK :- React was used as the front end framework. The major reason for using react as front end was to learn about the new technology and to understand its working while working on the project. Moreover, react provides with jsx wich is not yet available in other frameworks. With the help of jsx it becomes easy to blend in html and javascript to create components. The flexibilty of changing the building blocks gives the control to the developers to choose their style of building block.
+
+#COLOR-SCHEME :- The color scheme chosen is darkslategrey, white smoke and grey. The color blend in together really well and gives a refreshing look to the website.
+
+#BUILD WITH :- Framework used is React.js Code has been written on visual studio code. React-Bootstrap classes are used to provide responsiveness. Formik library is used for the authentication in the web form.
+
+#DEPLOYMENT :- After creating the project on the local machine. It was then pushed to the GitHub repository with necessay server file which is used for deployment. The project was then connected to heroku with the help of heroku gui. After successful deployment of the project a url is provided to access the end-points.
+
+#VALIDATIONS :- Basic validations are added with the help of formik library. Which checks for the email id and password and also verifies that the given email id is in the proper format or not. Also it will not allow the user the submit the form if both the fields are not present.
